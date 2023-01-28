@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  /* Con https://cssgradient.io/ se generan estos estilos */
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(2, 0, 36, 1) 11%,
+    rgba(121, 9, 86, 1) 50%,
+    rgba(21, 143, 168, 1) 100%
+  );
+}
